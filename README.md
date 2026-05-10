@@ -34,19 +34,19 @@
 
 ## 📁 Projects
 
-### 🎭 [Jokes API](https://github.com/ThunderDrag/JokesAPI)
+### 🎭 [Jokes API](https://github.com/ThunderDrag/jokes-api)
 A serverless joke API on **AWS Lambda, API Gateway & DynamoDB**. Token-based auth, robust exception handling, and comprehensive logging.
 
 ### 🎵 [Dusic](https://github.com/ThunderDrag/Dusic)
 A Discord music bot with **YouTube & Spotify** integration. Supports playlists, queues, and AI-powered natural language song requests via OpenAI.
 
-### 🚗 [VIN Decoder](https://github.com/ThunderDrag/VIN-Decoder)
+### 🚗 [VIN Decoder](https://github.com/ThunderDrag/vin-decoder)
 A client-side **Indian VIN decoder** for 17 manufacturers. Decodes year and month across 6+5 encoding schemes — zero dependencies, pure vanilla JS. [Live demo](https://vin-decoder-xi.vercel.app)
 
-### 🐦 [Twitter Easy List](https://github.com/ThunderDrag/Twitter-Easy-List)
+### 🐦 [Twitter Easy List](https://github.com/ThunderDrag/easy-twitter-lists)
 A Chrome extension that simplifies adding people to Twitter Lists.
 
-### 🤖 [ERNIE-4.5 Fine-Tuning](https://github.com/ThunderDrag/ernie-4.5)
+### 🤖 [ERNIE-4.5 Fine-Tuning](https://github.com/ThunderDrag/ernie-finetune)
 LoRA fine-tuning of Baidu's ERNIE-4.5 0.3B model with **Unsloth + TRL**. Knowledge distillation from Gemini & Claude outputs into a small open-source model.
 
 ---
