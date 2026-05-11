@@ -11,7 +11,7 @@
 
 *cs undergrad · backend & cloud · building things that run*
 
-[![Twitter](https://img.shields.io/badge/twitter-@thunder__druk-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thunder_druk)
+[![Twitter](https://img.shields.io/badge/twitter-@kjhqdev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/kjhqdev)
 ![Open to Work](https://img.shields.io/badge/open%20to%20work-yes-2ea043?style=flat-square)
 
 </div>
@@ -71,6 +71,6 @@ mostly python, some javascript. production infra on aws. keeping up with what's 
 
 <div align="center">
 
-*hireable · reach me at [@thunder_druk](https://twitter.com/thunder_druk)*
+*hireable · reach me at [@kjhqdev](https://x.com/kjhqdev)*
 
 </div>
