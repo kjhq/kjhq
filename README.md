@@ -1,38 +1,76 @@
-# Hey, I'm kjhq 👋
+<div align="center">
 
-🎓 CS undergrad · 🔧 APIs, bots, and tools · 🚀 Backend & cloud
+```
+██╗  ██╗     ██╗    ██╗  ██╗     ██████╗
+██║ ██╔╝     ██║    ██║  ██║    ██╔═══██╗
+█████╔╝      ██║    ███████║    ██║   ██║
+██╔═██╗ ██   ██║    ██╔══██║    ██║▄▄ ██║
+██║  ██╗╚█████╔╝    ██║  ██║    ╚██████╔╝
+╚═╝  ╚═╝ ╚════╝     ╚═╝  ╚═╝     ╚══▀▀═╝
+```
 
-[![Twitter](https://img.shields.io/badge/@thunder__druk-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/thunder_druk)
+*cs undergrad · backend & cloud · building things that run*
 
----
+[![Twitter](https://img.shields.io/badge/twitter-@thunder__druk-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thunder_druk)
+![Open to Work](https://img.shields.io/badge/open%20to%20work-yes-2ea043?style=flat-square)
 
-## 🛠️ Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![discord.py](https://img.shields.io/badge/-discord.py-7289DA?style=flat-square&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📁 Projects
-
-**[Jokes API](https://github.com/kjhq/jokes-api)** — Serverless joke API on AWS Lambda, API Gateway & DynamoDB. Token-based auth, robust error handling.
-
-**[Dusic](https://github.com/kjhq/Dusic)** — Discord music bot with YouTube & Spotify. AI-powered natural language song requests via OpenAI.
-
-**[VIN Decoder](https://github.com/kjhq/vin-decoder)** — Client-side Indian VIN decoder for 17 manufacturers. Zero dependencies, pure vanilla JS. [Live →](https://vin-decoder-xi.vercel.app)
-
-**[Easy Twitter Lists](https://github.com/kjhq/easy-twitter-lists)** — Chrome extension to add people to Twitter Lists with fewer clicks.
-
-**[ERNIE Fine-Tune](https://github.com/kjhq/ernie-finetune)** — LoRA fine-tuning of Baidu ERNIE-4.5 with Unsloth + TRL. Knowledge distillation from Gemini & Claude.
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://twitter.com/thunder_druk">Twitter</a>
-</p>
+### what i build
+
+backend systems · serverless apis · llm fine-tuning · ai integrations
+
+mostly python, some javascript. production infra on aws. keeping up with what's happening in llms — fine-tuning, knowledge distillation, inference efficiency, agent architectures.
+
+---
+
+### stack
+
+**languages**
+
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**cloud & infra**
+
+![AWS Lambda](https://img.shields.io/badge/aws%20lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/api%20gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/dynamodb-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**ml / ai**
+
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![TRL](https://img.shields.io/badge/trl-7C3AED?style=flat-square&logoColor=white)
+![Unsloth](https://img.shields.io/badge/unsloth-18181B?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white)
+![LoRA](https://img.shields.io/badge/lora%20%2F%20peft-0EA5E9?style=flat-square&logoColor=white)
+
+**tools**
+
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+---
+
+### projects
+
+| project | what it does | stack |
+|---|---|---|
+| [**jokes-api**](https://github.com/kjhq/jokes-api) | serverless joke api with token auth | `python` `lambda` `api gateway` `dynamodb` |
+| [**dusic**](https://github.com/kjhq/Dusic) | discord music bot — spotify, youtube, natural language requests | `python` `discord.py` `openai` |
+| [**vin-decoder**](https://vin-decoder-xi.vercel.app) | client-side indian vin decoder, 17 manufacturers, zero deps | `vanilla js` `vercel` |
+| [**easy-twitter-lists**](https://github.com/kjhq/easy-twitter-lists) | chrome extension for twitter list management | `javascript` |
+| [**ernie-finetune**](https://github.com/kjhq/ernie-finetune) | lora fine-tuning of ernie-4.5 0.3b w/ knowledge distillation | `pytorch` `unsloth` `lora` |
+
+---
+
+<div align="center">
+
+*hireable · reach me at [@thunder_druk](https://twitter.com/thunder_druk)*
+
+</div>
