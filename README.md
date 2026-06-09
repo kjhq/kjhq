@@ -12,6 +12,7 @@
 *cs undergrad · backend & cloud · building things that run*
 
 [![Twitter](https://img.shields.io/badge/twitter-@kjhqdev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/kjhqdev)
+[![Website](https://img.shields.io/badge/kjhq.dev-000000?style=flat-square)](https://kjhq.dev)
 ![Open to Work](https://img.shields.io/badge/open%20to%20work-yes-2ea043?style=flat-square)
 
 </div>
