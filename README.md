@@ -19,26 +19,28 @@
 
 ---
 
-### what i build
+## what i build
 
 backend systems · serverless apis · llm fine-tuning · ai integrations
 
-mostly python, some javascript. production infra on aws. keeping up with what's happening in llms — fine-tuning, knowledge distillation, inference efficiency, agent architectures.
+mostly python, some javascript. production infra on aws. keeping up with llms — fine-tuning, knowledge distillation, inference efficiency, agent architectures.
 
 ---
 
-### stack
+## stack
 
 **languages**
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **cloud & infra**
 
 ![AWS Lambda](https://img.shields.io/badge/aws%20lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/api%20gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/dynamodb-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **ml / ai**
@@ -58,15 +60,18 @@ mostly python, some javascript. production infra on aws. keeping up with what's 
 
 ---
 
-### projects
+## projects
 
 | project | what it does | stack |
 |---|---|---|
-| [**jokes-api**](https://github.com/kjhq/jokes-api) | serverless joke api with token auth | `python` `lambda` `api gateway` `dynamodb` |
-| [**dusic**](https://github.com/kjhq/Dusic) | discord music bot — spotify, youtube, natural language requests | `python` `discord.py` `openai` |
-| [**vin-decoder**](https://vin-decoder-xi.vercel.app) | client-side indian vin decoder, 17 manufacturers, zero deps | `vanilla js` `vercel` |
-| [**easy-twitter-lists**](https://github.com/kjhq/easy-twitter-lists) | chrome extension for twitter list management | `javascript` |
+| [**siteforge**](https://github.com/kjhq/siteforge) | multi-agent ai website builder on gemma 4 + cerebras | `react` `node.js` `cerebras` |
+| [**linkedin-unfiltered**](https://github.com/kjhq/linkedin-unfiltered) | chrome extension — translates linkedin corporate speak | `javascript` `chrome extension` `ai` |
 | [**ernie-finetune**](https://github.com/kjhq/ernie-finetune) | lora fine-tuning of ernie-4.5 0.3b w/ knowledge distillation | `pytorch` `unsloth` `lora` |
+| [**vin-decoder**](https://vin-decoder-xi.vercel.app) | client-side indian vin decoder, 17 manufacturers, zero deps | `vanilla js` `vercel` |
+| [**indian-stock-analysis**](https://github.com/kjhq/indian-stock-analysis) | daily nse pipeline — scrape, donchian analysis, telegram reports | `go` `python` `postgres` |
+| [**jokes-api**](https://github.com/kjhq/jokes-api) | serverless joke api with token auth | `python` `lambda` `dynamodb` |
+| [**dusic**](https://github.com/kjhq/Dusic) | discord music bot — spotify, youtube, natural language | `python` `discord.py` `openai` |
+| [**easy-twitter-lists**](https://github.com/kjhq/easy-twitter-lists) | chrome extension for twitter list management | `javascript` |
 
 ---
 
