@@ -68,7 +68,6 @@ mostly python, some javascript. production infra on aws. keeping up with llms �
 | [**linkedin-unfiltered**](https://github.com/kjhq/linkedin-unfiltered) | chrome extension — translates linkedin corporate speak | `javascript` `chrome extension` `ai` |
 | [**ernie-finetune**](https://github.com/kjhq/ernie-finetune) | lora fine-tuning of ernie-4.5 0.3b w/ knowledge distillation | `pytorch` `unsloth` `lora` |
 | [**vin-decoder**](https://vin-decoder-xi.vercel.app) | client-side indian vin decoder, 17 manufacturers, zero deps | `vanilla js` `vercel` |
-| [**indian-stock-analysis**](https://github.com/kjhq/indian-stock-analysis) | daily nse pipeline — scrape, donchian analysis, telegram reports | `go` `python` `postgres` |
 | [**jokes-api**](https://github.com/kjhq/jokes-api) | serverless joke api with token auth | `python` `lambda` `dynamodb` |
 | [**dusic**](https://github.com/kjhq/Dusic) | discord music bot — spotify, youtube, natural language | `python` `discord.py` `openai` |
 | [**easy-twitter-lists**](https://github.com/kjhq/easy-twitter-lists) | chrome extension for twitter list management | `javascript` |
