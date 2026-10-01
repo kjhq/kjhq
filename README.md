@@ -14,7 +14,7 @@
 
 ### about
 
-cs undergrad and backend-leaning developer. i like small, sharp tools that do one job well and keep running after i stop looking at them.
+cs undergrad and backend-leaning developer. i build focused tools that solve one problem well and run unattended once deployed.
 
 - **ai / llm tooling**: agents, llm-powered apps, fine-tuning small models
 - **scrapers and data pipelines**: scrape, clean, classify, summarize, ship
