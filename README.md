@@ -1,81 +1,75 @@
 <div align="center">
 
-```
-██╗  ██╗     ██╗    ██╗  ██╗  ██████╗
-██║ ██╔╝     ██║    ██║  ██║ ██╔═══██╗
-█████╔╝      ██║    ███████║ ██║   ██║
-██╔═██╗ ██   ██║    ██╔══██║ ██║▄▄ ██║
-██║  ██╗╚█████╔╝    ██║  ██║ ╚██████╔╝
-╚═╝  ╚═╝ ╚════╝     ╚═╝  ╚═╝  ╚══▀▀═╝
-```
+# hi, i'm kripanshu
 
-*cs undergrad · backend & cloud · building things that run*
+**i build ai tooling, scrapers and the self-hosted infra they run on.**
 
-[![Twitter](https://img.shields.io/badge/twitter-@kjhqdev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/kjhqdev)
-[![Website](https://img.shields.io/badge/kjhq.dev-000000?style=flat-square)](https://kjhq.dev)
-![Open to Work](https://img.shields.io/badge/open%20to%20work-yes-2ea043?style=flat-square)
+[![website](https://img.shields.io/badge/kjhq.dev-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://kjhq.dev)
+[![x](https://img.shields.io/badge/@kjhqdev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kjhqdev)
+![open to work](https://img.shields.io/badge/open%20to%20work-2ea043?style=flat-square)
 
 </div>
 
 ---
 
-## what i build
+### about
 
-backend systems · serverless apis · llm fine-tuning · ai integrations
+cs undergrad and backend-leaning developer. i like small, sharp tools that do one job well and keep running after i stop looking at them.
 
-mostly python, some javascript. production infra on aws. keeping up with llms — fine-tuning, knowledge distillation, inference efficiency, agent architectures.
+- **ai / llm tooling**: agents, llm-powered apps, fine-tuning small models
+- **scrapers and data pipelines**: scrape, clean, classify, summarize, ship
+- **self-hosting**: docker services on my own boxes, serverless where it fits
+- **browser extensions**: little quality-of-life fixes for sites i use daily
 
----
-
-## stack
-
-**languages**
-
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-**cloud & infra**
-
-![AWS Lambda](https://img.shields.io/badge/aws%20lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/api%20gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/dynamodb-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**ml / ai**
-
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-![TRL](https://img.shields.io/badge/trl-7C3AED?style=flat-square&logoColor=white)
-![Unsloth](https://img.shields.io/badge/unsloth-18181B?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white)
-![LoRA](https://img.shields.io/badge/lora%20%2F%20peft-0EA5E9?style=flat-square&logoColor=white)
-
-**tools**
-
-![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+**currently building:** ai agent tooling and self-hosted infra.
 
 ---
 
-## projects
+### stack
 
-| project | what it does | stack |
+![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![c++](https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<br/>
+![react](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![astro](https://img.shields.io/badge/astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![tailwind css](https://img.shields.io/badge/tailwind%20css-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![hugging face](https://img.shields.io/badge/hugging%20face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<br/>
+![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![aws](https://img.shields.io/badge/aws%20lambda%20·%20dynamodb-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![cloudflare workers](https://img.shields.io/badge/cloudflare%20workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### featured projects
+
+| project | what it is | stack |
 |---|---|---|
-| [**siteforge**](https://github.com/kjhq/siteforge) | multi-agent ai website builder on gemma 4 + cerebras | `react` `node.js` `cerebras` |
-| [**linkedin-unfiltered**](https://github.com/kjhq/linkedin-unfiltered) | chrome extension — translates linkedin corporate speak | `javascript` `chrome extension` `ai` |
-| [**ernie-finetune**](https://github.com/kjhq/ernie-finetune) | lora fine-tuning of ernie-4.5 0.3b w/ knowledge distillation | `pytorch` `unsloth` `lora` |
-| [**vin-decoder**](https://vin-decoder-xi.vercel.app) | client-side indian vin decoder, 17 manufacturers, zero deps | `vanilla js` `vercel` |
-| [**jokes-api**](https://github.com/kjhq/jokes-api) | serverless joke api with token auth | `python` `lambda` `dynamodb` |
-| [**dusic**](https://github.com/kjhq/Dusic) | discord music bot — spotify, youtube, natural language | `python` `discord.py` `openai` |
-| [**easy-twitter-lists**](https://github.com/kjhq/easy-twitter-lists) | chrome extension for twitter list management | `javascript` |
+| [**siteforge**](https://github.com/kjhq/siteforge) | multi-agent ai website builder: six agents on gemma 4 via cerebras | `react` `node.js` |
+| [**linkedin-unfiltered**](https://github.com/kjhq/linkedin-unfiltered) | browser extension that translates linkedin corporate speak into what people actually mean | `javascript` `mv3` `llm` |
+| [**ernie-finetune**](https://github.com/kjhq/ernie-finetune) | lora fine-tune of baidu ernie-4.5 0.3b on responses distilled from gemini and claude | `pytorch` `unsloth` `trl` |
+| [**dusic**](https://github.com/kjhq/Dusic) | discord music bot you can talk to: spotify links in, natural language control | `python` `discord.py` `openai` |
+| [**vin-decoder**](https://github.com/kjhq/vin-decoder) | client-side vin decoder for indian vehicles, 17 manufacturers ([live](https://vin.kjhq.dev)) | `vanilla js` `cloudflare` |
+| [**jokes-api**](https://github.com/kjhq/jokes-api) | serverless joke api with token auth and per-token usage counting | `python` `lambda` `dynamodb` |
+| [**easy-twitter-lists**](https://github.com/kjhq/easy-twitter-lists) | chrome extension that adds an "add to list" dropdown to x profiles | `javascript` `mv3` |
+
+---
+
+### open source
+
+contributions to [openchamber](https://github.com/openchamber/openchamber), a visual ui for opencode, and [autogpt](https://github.com/Significant-Gravitas/AutoGPT).
 
 ---
 
 <div align="center">
 
-*hireable · reach me at [@kjhqdev](https://x.com/kjhqdev)*
+*say hi on [x](https://x.com/kjhqdev) · more at [kjhq.dev](https://kjhq.dev)*
 
 </div>
